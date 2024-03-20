@@ -26,7 +26,7 @@ jobs:
         run: dotnet tool restore
       # Build the code for the API documentation
       - name: Build code
-        run: dotnet build -c Release YourSolution.sln
+        run: dotnet build -c Release fsDocs_GettingStarted.sln
       # Generate the documentation files
       - name: Generate the documentation'
         run: dotnet fsdocs build --properties Configuration=Release
