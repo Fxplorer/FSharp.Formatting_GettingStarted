@@ -1,6 +1,6 @@
 <Project>
     <PropertyGroup>
-        <RepositoryUrl>https://github.com/Fxplorer/FSharp.Formatting_GettingStarted</RepositoryUrl>
+        <RepositoryUrl>https://Fxplorer.github.io/FSharp.Formatting_GettingStarted</RepositoryUrl>
         <FsDocsLicenseLink>https://github.com/Fxplorer/FSharp.Formatting_GettingStarted/blob/195d5fee1edcd37e64e85a799e0931ef732f05ee/LICENSE</FsDocsLicenseLink>
         <FsDocsReleaseNotesLink>https://github.com/fsprojects/FSharp.AWS.DynamoDB/blob/master/RELEASE_NOTES.md</FsDocsReleaseNotesLink>
         <PackageProjectUrl>https://github.com/Fxplorer/FSharp.Formatting_GettingStarted</PackageProjectUrl>
